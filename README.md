@@ -22,6 +22,9 @@
 ### Clone repository
     git clone git@github.com:namle243/docker-seminar.git
 
+### switch to branch develop
+    git checkout develop
+    
 ### In root project, start docker compose to run project
     docker-compose up
     docker-compose up -d  (project run in background mode)
